@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/17 20:22:13.000.197,=C:\Users\Nikola\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/17 20:22:35.000.652,D:\projekat\Unit1.pas=C:\Users\Nikola\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/17 20:22:35.000.652,D:\projekat\Unit1.fmx=C:\Users\Nikola\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2023/09/17 20:22:42.000.038,D:\projekat\Project1.dproj=C:\Users\Nikola\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/09/17 20:23:08.000.462,=D:\projekat\uIstorija.pas</Transaction>
+    <Transaction>2023/09/17 20:23:08.000.216,=D:\projekat\uDM.pas</Transaction>
+    <Transaction>2023/09/17 20:23:08.000.738,=D:\projekat\uLoginZaposleni.pas</Transaction>
+    <Transaction>2023/09/17 20:23:08.000.587,=D:\projekat\uLogin.pas</Transaction>
+    <Transaction>2023/09/17 20:23:08.000.953,=D:\projekat\uMain.pas</Transaction>
+    <Transaction>2023/09/17 20:23:09.000.159,=D:\projekat\uNalog.pas</Transaction>
+    <Transaction>2023/09/17 20:23:09.000.335,=D:\projekat\uRegister.pas</Transaction>
+    <Transaction>2023/09/17 20:23:09.000.542,=D:\projekat\uRezervacija.pas</Transaction>
+    <Transaction>2023/09/17 20:26:03.000.866,=D:\projekat\OdrzavanjeDruga.pas</Transaction>
+    <Transaction>2023/09/17 20:26:03.000.507,=D:\projekat\Hotel.pas</Transaction>
+    <Transaction>2023/09/17 20:26:03.000.659,=D:\projekat\Izvestaj.pas</Transaction>
+    <Transaction>2023/09/17 20:26:03.000.753,=D:\projekat\OdrzavanjeCiscenje.pas</Transaction>
+    <Transaction>2023/09/17 20:26:04.000.833,=D:\projekat\SigurnosnaOprema.pas</Transaction>
+    <Transaction>2023/09/17 20:26:04.000.515,=D:\projekat\Popravka.pas</Transaction>
+    <Transaction>2023/09/17 20:26:04.000.004,=D:\projekat\OdrzavanjeGlavna.pas</Transaction>
+    <Transaction>2023/09/17 20:26:04.000.235,=D:\projekat\OdrzavanjeOpremaZaPopravka.pas</Transaction>
+    <Transaction>2023/09/17 20:26:04.000.124,=D:\projekat\OdrzavanjeOpremaZaCiscenje.pas</Transaction>
+    <Transaction>2023/09/17 20:26:04.000.687,=D:\projekat\Restoran.pas</Transaction>
+    <Transaction>2023/09/17 20:26:04.000.356,=D:\projekat\OsnovnaSredstva.pas</Transaction>
+    <Transaction>2023/09/17 20:26:05.000.059,=D:\projekat\Zaposleni.pas</Transaction>
+    <Transaction>2023/09/17 20:26:22.000.897,D:\projekat\OdrzavanjeGlavna.pas=</Transaction>
+    <Transaction>2023/09/17 20:27:19.000.716,=D:\projekat\Unit2.pas</Transaction>
+    <Transaction>2023/09/17 20:27:28.000.731,D:\projekat\uZaposleniMain.pas=D:\projekat\Unit2.pas</Transaction>
+    <Transaction>2023/09/17 20:27:28.000.731,D:\projekat\uZaposleniMain.fmx=D:\projekat\Unit2.fmx</Transaction>
+    <Transaction>2023/09/17 20:53:37.000.299,D:\projekat\OdrzavanjeCiscenje.pas=</Transaction>
+    <Transaction>2023/09/17 21:28:02.000.592,=D:\projekat\DB.pas</Transaction>
+    <Transaction>2023/09/17 21:28:02.000.760,=D:\projekat\dobavljaci.pas</Transaction>
+    <Transaction>2023/09/17 21:36:28.958,=D:\projekat\magacin.pas</Transaction>
+    <Transaction>2023/09/17 21:36:29.023,=D:\projekat\meni.pas</Transaction>
+    <Transaction>2023/09/17 21:36:29.119,=D:\projekat\narucivanje.pas</Transaction>
+    <Transaction>2023/09/17 21:36:29.229,=D:\projekat\Pregled.pas</Transaction>
+    <Transaction>2023/09/17 21:36:29.341,=D:\projekat\prZahteva.pas</Transaction>
+    <Transaction>2023/09/17 21:36:29.452,=D:\projekat\snabdevaci.pas</Transaction>
+    <Transaction>2023/09/17 21:36:29.531,=D:\projekat\zahtev.pas</Transaction>
+  </Transactions>
+</BorlandProject>
