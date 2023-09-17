@@ -26,13 +26,17 @@ type
     klijent: TLayout;
     forestTekst: TText;
     drvoSlika: TImage;
-    gridIstorija: TGrid;
     btnPrikazei: TButton;
+    gridIstorija: TStringGrid;
+    StringColumn1: TStringColumn;
+    StringColumn2: TStringColumn;
+    StringColumn3: TStringColumn;
     procedure btnPrikazeiClick(Sender: TObject);
     procedure slikaNalogClick(Sender: TObject);
     procedure slikaLogoutClick(Sender: TObject);
     procedure slikaRezervacijaClick(Sender: TObject);
     procedure slikaHomeClick(Sender: TObject);
+    procedure FormCreate(Sender: TObject);
   private
     Fidgosta: integer;
   public
@@ -55,6 +59,31 @@ with baza do begin
 end;
 end;
 
+procedure TformIstorija.FormCreate(Sender: TObject);
+  var Row: Integer;
+begin
+
+  try
+    with baza do begin
+    qtemp.SQL.Text :=  'SELECT * FROM rezervacije';
+    qtemp.Open;
+
+    Row := 0;
+    while not qtemp.Eof do
+    begin
+      gridIstorija.Cells[0, Row] := qtemp.FieldByName('datum_dolaska').AsString;
+      gridIstorija.Cells[1, Row] := qtemp.FieldByName('datum_odlaska').AsString;
+      gridIstorija.Cells[2, Row] := qtemp.FieldByName('soba_id').AsString;
+      qtemp.Next;
+      Inc(Row);
+    end;
+    end;
+  finally
+
+  end;
+
+
+  end;
 procedure TformIstorija.slikaHomeClick(Sender: TObject);
 begin
 formIstorija.Hide;

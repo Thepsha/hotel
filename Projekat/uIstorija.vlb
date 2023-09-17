@@ -4,10 +4,6 @@ Coordinates=89,132,49,51
 [footer]
 Coordinates=260,132,43,33
 
-[gridIstorija]
-Coordinates=254,71,67,51
-Visible=True
-
 [slikaRezervacija]
 Coordinates=151,71,93,51
 
@@ -39,5 +35,6 @@ Coordinates=85,10,65,51
 Coordinates=160,10,69,51
 
 []
-Coordinates=394,53,90,33
+Coordinates=254,71,67,51
+Visible=True
 
